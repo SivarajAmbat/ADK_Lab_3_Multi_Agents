@@ -1,0 +1,18 @@
+Logline: A brilliant mathematician, stifled by societal expectations and haunted by her poetic father's legacy, defies the limitations of her era to envision a future where machines can do more than just calculate, becoming the world's first computer programmer.
+
+Three-Act Plot Outline:
+
+Act 1: The Seed of Genius
+*   **Introduction to Ada's world:** Young Ada, a prodigy with a keen mind for mathematics, is raised by her mother, Lady Byron, who actively steers her away from her "mad" poet father's influence. Despite this, Ada possesses a "poetical science" mindset, a blend of logic and imagination.
+*   **Early struggles and societal constraints:** Ada faces the limitations placed on women in 19th-century society, where her intellectual pursuits are often seen as eccentric or unfeminine. She yearns for deeper intellectual engagement.
+*   **Meeting Babbage:** Ada's mathematical talents lead her to Charles Babbage and his Analytical Engine. She is immediately captivated by the machine, seeing its potential beyond mere arithmetic, a vision Babbage himself doesn't fully grasp. This sparks a unique intellectual partnership.
+
+Act 2: The Visionary's Struggle
+*   **Deepening collaboration and groundbreaking insights:** Ada immerses herself in Babbage's work, translating Menabrea's article and adding her extensive notes. She develops the first algorithm intended for a machine, effectively becoming the first computer programmer.
+*   **Conflict and skepticism:** Ada's radical ideas about the Analytical Engine's capabilities (encoding music, manipulating symbols) are met with skepticism from Babbage and others who see it only as a calculator. She struggles to articulate her profound vision to a world not ready for it.
+*   **Personal challenges:** Ada battles chronic illness and societal pressures. Her personal life, including her marriage and her continued fascination with her father's legacy, intertwine with her intellectual pursuits, adding layers of complexity to her character. She feels the weight of being a woman pushing boundaries in a male-dominated field.
+
+Act 3: Legacy and Illumination
+*   **The "first program" and its implications:** Ada completes her notes, detailing the Bernoulli number algorithm and articulating her broader vision for the Analytical Engine. This is her magnum opus, a testament to her foresight.
+*   **Unrecognized genius in her time:** Despite her groundbreaking work, the Analytical Engine is never fully built, and her contributions are largely overlooked or misunderstood during her lifetime. She faces the bittersweet reality of her genius being ahead of its time.
+*   **Enduring impact:** Ada's health deteriorates, but her spirit remains. The film concludes with a reflection on her enduring legacy, showing how her "poetical science" and her vision of a universal machine laid the groundwork for the digital age, inspiring future generations and finally receiving the recognition she deserved as the world's first computer programmer.
